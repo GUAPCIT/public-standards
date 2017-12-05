@@ -1,34 +1,27 @@
 {
 	"Items": [
 		{
-			/*
-			 * информация в соответствии с требованиями Рособрнадзора
-			 */
-			"fio": "Фамилия Имя Отчество", // фио полностью
-			"post": "доцент", // должность
-			"teachingDiscipline": "Дисциплина 1;Дисциплина 2;Дисциплина 3", // преподаваемые дисциплины
-			"teachingLevel": "СПО|ВПО|ВО...", // уровень образования
-			"teachingQual": "специалист", // квалификация
-			"degree": "c_tech", // учёная степень в соответствии с http://regs.guap.ru/RegAcademicDegreesSciences
-			"academStat": "doc", // учёное звание в соответствии с http://regs.guap.ru/RegAcademicRanks
-			"employeeQualification": "", // наименование направления подготовки и (или) специальности
-			"profDevelopment": "год,оо,квалификация", // сведения о повышении квалификации и (или) профессиональной переподготовке (при наличии)
-			"genExperience": "3", // общий стаж работы 
-			"specExperience": "2", // стаж работы по специальности
-			/*
-			 * информация из pro.guap.ru
-			 */
-			"pro_id": "", // id кабинета преподавателя в pro.guap.ru
-			"pro_username": "", // username в pro.guap.ru			
-			"pro_image": "", // ссылка на фотографию в pro.guap.ru
-			/*
-			 * дополнительная информация из pro.guap.ru
-			 */
+			"fio": "",
+			"post": "",
+			"teachingDiscipline": "",
+			"teachingLevel": "",
+			"teachingQual": "",
+			"degree": "",
+			"academStat": "",
+			"employeeQualification": "",
+			"profDevelopment": "",
+			"genExperience": "",
+			"specExperience": "",
+			
+			"pro_id": "",
+			"pro_username": "",
+			"pro_image": "",
+			
 			"pro_works": [
 				{
-					"pro_kaf": "", // сокращенное название кафедры
-					"pro_dept": "", // сокращенное название факультета/института
-					"pro_post": "" // должность в подразделении
+					"pro_kaf": "",
+					"pro_dept": "",
+					"pro_post": ""
 				}
 			]
 		}
