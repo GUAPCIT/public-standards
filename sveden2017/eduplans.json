@@ -1,40 +1,5 @@
-
 {
 	"disciplines": [
-		{
-			"discipline_id": "",
-			"year_ptr": "",
-			"cycle_ptr": "",
-			"component": "",
-			"is_optional": "",
-			"is_alternative": "",
-			"name": "",
-			"up_type": "",
-			"index": "",
-			"exams": "",
-			"tests": "",
-			"cpcrs": "",
-			"zed": "",
-			"file_ann": "",
-			"file_ann_ext": ""
-		},
-		{
-			"discipline_id": "",
-			"year_ptr": "",
-			"cycle_ptr": "",
-			"component": "",
-			"is_optional": "",
-			"is_alternative": "",
-			"name": "",
-			"up_type": "",
-			"index": "",
-			"exams": "",
-			"tests": "",
-			"cpcrs": "",
-			"zed": "",
-			"file_ann": "",
-			"file_ann_ext": ""
-		},
 		{
 			"discipline_id": "",
 			"year_ptr": "",
@@ -70,64 +35,9 @@
 			"file_ann": "",
 			"file_ann_ext": "",
 			"other_id": ""
-		},
-		{
-			"year_ptr": "",
-			"cycle_ptr": "",
-			"component": "",
-			"is_optional": "",
-			"is_alternative": "",
-			"name": "",
-			"up_type": "",
-			"index": "",
-			"exams": "",
-			"tests": "",
-			"cpcrs": "",
-			"zed": "",
-			"file_ann": "",
-			"file_ann_ext": "",
-			"other_id": ""
-		},
-		{
-			"year_ptr": "",
-			"cycle_ptr": "",
-			"component": "",
-			"is_optional": "",
-			"is_alternative": "",
-			"name": "",
-			"up_type": "",
-			"index": "",
-			"exams": "",
-			"tests": "",
-			"cpcrs": "",
-			"zed": "3",
-			"file_ann": "",
-			"file_ann_ext": "",
-			"other_id": ""
 		}
 	],
 	"files_discs": [
-		{
-			"file_id": "",
-			"doctype_ptr": "",
-			"file": "",
-			"file_ext": "",
-			"discipline_ptr": ""
-		},
-		{
-			"file_id": "",
-			"doctype_ptr": "",
-			"file": "",
-			"file_ext": "",
-			"discipline_ptr": ""
-		},
-		{
-			"file_id": "",
-			"doctype_ptr": "",
-			"file": "",
-			"file_ext": "",
-			"discipline_ptr": ""
-		},
 		{
 			"file_id": "",
 			"doctype_ptr": "",
