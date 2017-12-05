@@ -1,10 +1,10 @@
 Адрес выгрузки: http://ais.local/export/base.json
 
 - __levels__ [] – реестр уровней образования
-  - __level_id__ [int*]
-  - __disbabled__ [bool] – Отключен (0=включен;1=отключен)
-  - __title__ [utf8[250]] – Наименование
-  - __group__ [utf8[250]] – Группа уровня образования
+  - __level_id__ `int*`
+  - __disbabled__ `bool` – Отключен (0=включен;1=отключен)
+  - __title__ `utf8[250]` – Наименование
+  - __group__ `utf8[250]` – Группа уровня образования
 
 ## qualifications - реестр квалификаций
 .qualification_id	int*	
