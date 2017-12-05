@@ -3,6 +3,7 @@
 
 
 - __disciplines__ `[]` — дисциплины учебного плана <подчиненная years>
+
   - __discipline_id__ `int*`
   - __year_ptr__ `int` — указатель на года приема + форма обучения. Связь с years.year_id
   - __cycle_ptr__ `int` — указатель на название цикла. Связь с cycle.cycle_id
@@ -20,6 +21,7 @@
   - __file_ann_ext__ `text[10]` — расширение файла аннотации к рабочей программе	
 
 - __others__ `[]` — ГИА и практики <подчиненная years>
+
   - __other_id__ `int*`
   - __year_ptr__ `int` — указатель на года приема + форма обучения. Связь с years.year_id
   - __cycle_ptr__ `int` — указатель на название цикла. Связь с cycle.cycle_id
@@ -37,6 +39,7 @@
   - __file_ann_ext__ `text[10]` — расширение файла аннотации к рабочей программе	
 
 - __files_discs__ `[]` — методические и иные документы дисциплин <подчиненная disciplines>
+
   - __file_id__ `int*`
   - __discipline_ptr__ `int` — указатель на дисциплину. Связь с disciplines.discipline_id
   - __doctype_ptr__ `int` — указатель на тип документа. Связь с doctypes.doctype_id
@@ -45,6 +48,7 @@
   - __file_ext__ `text[10]` — расширение файла документа
 
 - __files_oths__ `[]` — методические и иные документы ГИА и практик <подчиненная others>
+
   - __file_id__ `int*`
   - __other_ptr__ `int` — указатель на дисциплину. Связь с others.other_id
   - __doctype_ptr__ `int` — указатель на тип документа. Связь с doctypes.doctype_id
