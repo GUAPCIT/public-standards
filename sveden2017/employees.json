@@ -13,15 +13,15 @@
 			"genExperience": "",
 			"specExperience": "",
 			
-			"pro_id": "",
-			"pro_username": "",
-			"pro_image": "",
+			"proId": "",
+			"proUsername": "",
+			"proImage": "",
 			
-			"pro_works": [
+			"proWorks": [
 				{
-					"pro_kaf": "",
-					"pro_dept": "",
-					"pro_post": ""
+					"proKaf": "",
+					"proDept": "",
+					"proPost": ""
 				}
 			]
 		}
