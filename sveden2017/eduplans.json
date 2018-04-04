@@ -15,7 +15,9 @@
 			"cpcrs": "",
 			"zed": "",
 			"file_ann": "",
-			"file_ann_ext": ""
+			"file_ann_ext": "",
+			"file_rpd_full": "",
+			"file_rpd_full_ext": ""
 		}
 	],
 	"others": [
@@ -34,7 +36,9 @@
 			"zed": "",
 			"file_ann": "",
 			"file_ann_ext": "",
-			"other_id": ""
+			"other_id": "",
+			"file_rpd_full": "",
+			"file_rpd_full_ext": ""
 		}
 	],
 	"files_discs": [
