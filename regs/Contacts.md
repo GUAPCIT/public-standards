@@ -4,12 +4,12 @@
 |поле|тип|описание|
 |-|-|-|
 | ContactId | INT |  |
-| DepPtr | INT |  |
 | Ord | INT |  |
+| DepPtr | INT | [^Подразделения](Deps.md) |
+| PersonPtr | INT | [^Сотрудники](Persons.md) |
 | Post | NVARCHAR (100) |  |
 | IsActing | BIT |  |
 | Level | INT |  |
-| PersonPtr | INT |  |
 | Office | NVARCHAR (100) |  |
 | Emails | NVARCHAR (100) |  |
 | Phones | NVARCHAR (100) |  |
