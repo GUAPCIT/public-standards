@@ -1,12 +1,12 @@
 - ContactId `INT`
-- DepPtr — `INT`
-- Ord — INT
-- Post — NVARCHAR(100)
-- IsActing — BIT
-- Level — INT
-- PersonPtr — INT
-- Office — NVARCHAR(100)
-- Emails — NVARCHAR(100)
-- Phones — NVARCHAR(100)
-- Fax — NVARCHAR(100)
-- Contacts — NVARCHAR(400)
+- DepPtr `INT`
+- Ord `INT
+- Post `NVARCHAR(100)
+- IsActing `BIT
+- Level `INT
+- PersonPtr `INT
+- Office `NVARCHAR(100)
+- Emails `NVARCHAR(100)
+- Phones `NVARCHAR(100)
+- Fax `NVARCHAR(100)
+- Contacts `NVARCHAR(400)
