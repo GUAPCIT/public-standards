@@ -1,6 +1,6 @@
-| ContactId | `INT` |
-|-----------|-------|
-| ContactId | `INT` |
+| Поле | Тип | Описание |
+|-|-|-|
+| ContactId | `INT` ||
 
 - ContactId `INT`
 - DepPtr `INT`
