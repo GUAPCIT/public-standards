@@ -1,4 +1,4 @@
-- ContactId #INT#
+- ContactId `INT`
 - DepPtr — INT
 - Ord — INT
 - Post — NVARCHAR(100)
