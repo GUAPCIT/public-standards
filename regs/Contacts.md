@@ -1,4 +1,6 @@
 | ContactId | `INT` |
+|-----------|-------|
+| ContactId | `INT` |
 
 - ContactId `INT`
 - DepPtr `INT`
