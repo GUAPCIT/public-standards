@@ -1,5 +1,6 @@
 # Контакты подразделений
 
+|--|
 | ContactId | INT |  |
 | DepPtr | INT |  |
 | Ord | INT |  |
