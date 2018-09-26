@@ -7,5 +7,5 @@
 | Name | NVARCHAR (50) |  |
 | NameRu | NVARCHAR (50) |  |
 | ShortTitle | NVARCHAR (50) |  |
-| Title | NVARCHAR (100) |  |
+| Title | NVARCHAR (250) |  |
 
