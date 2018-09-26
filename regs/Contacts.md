@@ -1,5 +1,5 @@
 - ContactId `INT`
-- DepPtr — INT
+- DepPtr — `INT`
 - Ord — INT
 - Post — NVARCHAR(100)
 - IsActing — BIT
