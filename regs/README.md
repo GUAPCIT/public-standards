@@ -6,8 +6,6 @@
   - [Ученые степени по отраслям наук (объединенный)](RegAcademicDegreesSciences.md)
   - [Классы подразделений](RegDepClasses.md)
   - [Должности](RegPosts.md)
-  
   - [Сотрудники](Persons.md)
   - [Контакты подразделений](Contacts.md)
   - [Подразделения](Deps.md)
-  
