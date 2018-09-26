@@ -1,1 +1,13 @@
 
+[ContactId] INT            IDENTITY (1, 1) NOT NULL,
+    [DepPtr]    INT            NULL,
+    [Ord]       INT            DEFAULT ((0)) NOT NULL,
+    [Post]      NVARCHAR (100) NULL,
+    [IsActing]  BIT            DEFAULT ((0)) NOT NULL,
+    [Level]     INT            DEFAULT ((0)) NOT NULL,
+    [PersonPtr] INT            NULL,
+    [Office]    NVARCHAR (100) NULL,
+    [Emails]    NVARCHAR (100) NULL,
+    [Phones]    NVARCHAR (100) NULL,
+    [Fax]       NVARCHAR (100) NULL,
+    [Contacts]  NVARCHAR (400) NULL,
