@@ -1,8 +1,8 @@
 
-# Адрес выгрузки:
+Адрес исходной выгрузки:
 http://ais.local/export/eduplans.json
 
-# Исправленный вариант:
+Адрес исправленного варианта:
 http://download.guap.ru/sveden/_edu/eduplans-ais.json
 
 
