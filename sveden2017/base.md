@@ -1,4 +1,5 @@
-# Адрес выгрузки: http://ais.local/export/base.json
+Адрес исходной выгрузки: http://ais.local/export/base.json
+Адрес исправленного варианта: http://download.guap.ru/sveden/_edu/eduplans-bases.json
 
 
 - __levels__ `[]` — реестр уровней образования
