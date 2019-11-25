@@ -1,5 +1,6 @@
 
 # Адрес выгрузки: http://ais.local/export/eduplans.json
+# Исправленный вариант: http://download.guap.ru/sveden/_edu/eduplans-ais.json
 
 
 - __disciplines__ `[]` — дисциплины учебного плана <подчиненная years>
