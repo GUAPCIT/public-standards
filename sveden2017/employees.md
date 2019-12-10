@@ -1,4 +1,6 @@
-# Адрес выгрузки: http://download.guap.ru/sveden/_pps/pps.json
+Адрес исходной выгрузки: https://ais.local/index.php?action=exportListsForLMS&mode=4site
+
+Адрес исправленного варианта: http://download.guap.ru/sveden/_pps/pps.json
 
 
 - __Items__ `[]` — для всех педагогических работников
