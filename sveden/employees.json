@@ -1,0 +1,22 @@
+[
+	{
+		"proId": "int - ключ педагогического работника в личном кабинете",
+		"fio": "text[100] - фамилия, имя и отчество",
+		"degree": "int - сведения об учёной степени (из реестра https://api.guap.ru/data/RegsAcademicDegrees)",
+		"academStat": "int - сведения об учёном звании (из реестра https://api.guap.ru/data/RegsAcademicRanks)",
+		"teachingLevel": "text[100] - уровень образования",
+		"employeeQualification": "text[250] - наименование направления подготовки и (или) специальности",
+		"teachingQual": "text[250] - квалификация",
+		"post": [
+			"text[MEMO] - занимаемая должность"
+		],
+		"teachingDiscipline": [
+			"text[250] - преподаваемая дисциплина"
+		],
+		"profDevelopment": [
+			"text[250] - повышение квалификации и (или) профессиональная переподготовка (при наличии)"
+		],
+		"genExperience": "int - общий стаж работы",
+		"specExperience": "int - стаж работы по специальности"
+	}
+]
