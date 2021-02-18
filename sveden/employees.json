@@ -2,21 +2,38 @@
 	{
 		"proId": "int - ключ педагогического работника в личном кабинете",
 		"fio": "text[100] - фамилия, имя и отчество",
-		"degree": "int - сведения об учёной степени (из реестра https://api.guap.ru/data/RegsAcademicDegrees)",
-		"academStat": "int - сведения об учёном звании (из реестра https://api.guap.ru/data/RegsAcademicRanks)",
+		"posts": [
+			{
+				"title": "text[250] - занимаемая должность, подразделение",
+				"dep": "int - подразделение (из реестра)",
+				"dep2": "text[250] - подразделение (ручной ввод, если dep=0)"
+			}
+
+		],
 		"teachingLevel": "text[100] - уровень образования",
-		"employeeQualification": "text[250] - наименование направления подготовки и (или) специальности",
-		"teachingQual": "text[250] - квалификация",
-		"post": [
-			"text[MEMO] - занимаемая должность"
+		"edictaion": [
+			{
+				"spec": "text[250] - наименование направления подготовки и (или) специальности",
+				"qual": "text[250] - квалификация"
+			}
 		],
-		"teachingDiscipline": [
-			"text[250] - преподаваемая дисциплина"
-		],
+		"degree2": "text[100] - учёная степень",
+		"academStat2": "text[100] - учёное звание",
+		"degree": "int - * сведения об учёной степени (из реестра https://api.guap.ru/data/RegsAcademicDegrees)",
+		"academStat": "int - * сведения об учёном звании (из реестра https://api.guap.ru/data/RegsAcademicRanks)",
 		"profDevelopment": [
-			"text[250] - повышение квалификации и (или) профессиональная переподготовка (при наличии)"
+			{
+				"title": "text[250] - повышение квалификации и (или) профессиональная переподготовка",
+				"org": "text[250] - организация",
+				"year": "int - год",
+				"vol": "int - объем (часов)",
+				"doc": "text[250] - документ (тип, номер)"
+			}
 		],
 		"genExperience": "int - общий стаж работы",
-		"specExperience": "int - стаж работы по специальности"
+		"specExperience": "int - стаж работы по специальности",
+		"teachingDiscipline": [
+			"text[250] - преподаваемая дисциплина"
+		]
 	}
 ]
