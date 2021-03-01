@@ -18,7 +18,13 @@ http://download.guap.ru/sveden/_edu/eduplans-bases.json
 ОБНОВЛЕНИЕ 2021-002-18
 
 Новое описание формата JSON:  
-[eduplans.json](eduplans.json)
+[eduplans_new.json](eduplans_new.json)
+
+Новая исходная выгрузки (АИС):
+http://ais.local/export/eduplansnew.json
+
+Новый исправленный вариант (ЦИТ):  
+http://download.guap.ru/sveden/_edu/eduplansnew-ais.json
 
 ---
 
