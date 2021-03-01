@@ -15,7 +15,7 @@ http://download.guap.ru/sveden/_edu/eduplans-bases.json
 
 ## Образование (eduplans)
 
-ОБНОВЛЕНИЕ 2021-002-18
+ОБНОВЛЕНИЕ 2021-003-01
 
 Новое описание формата JSON:  
 [eduplans_new.json](eduplans_new.json)
