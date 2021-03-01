@@ -1,7 +1,7 @@
 {
 	"disciplines": [
 		{
-			"disciplines_id": "int - ключ",
+			"discipline_id": "int - ключ",
 			"year_ptr": "int - указатель на года приема + форма обучения [^base.years]",
 			"type": "int - тип элемента (1=дисциплина (модуль);2=практика;3=ГИА)",
 			"name": "text[255] - наименование",
