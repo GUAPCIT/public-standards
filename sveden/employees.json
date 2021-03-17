@@ -1,14 +1,21 @@
 [
 	{
-		"degree2": "text[100] - учёная степень",
+		"proId": "int - ключ педагогического работника в личном кабинете",
+		"fio": "text[100] - фамилия, имя и отчество",
+
 		"degree": "int - * сведения об учёной степени (из реестра https://api.guap.ru/data/RegsAcademicDegrees)",
+		"degree2": "text[100] - учёная степень",
+		"academStat": "int - * сведения об учёном звании (из реестра https://api.guap.ru/data/RegsAcademicRanks)",
+		"academStat2": "text[100] - учёное звание",
+		
+		"teachingLevel": "text[100] - уровень образования",
 		"edictaion": [
 			{
 				"spec": "text[250] - наименование направления подготовки и (или) специальности",
 				"qual": "text[250] - квалификация"
 			}
 		],
-		"proId": "int - ключ педагогического работника в личном кабинете",
+
 		"posts": [
 			{
 				"rate": "int - ставка",
@@ -17,20 +24,18 @@
 				"dep2": "text[250] - название подразделения (ручной ввод, если dep=0)"
 			}
 		],
-		"teachingLevel": "text[100] - уровень образования",
-		"fio": "text[100] - фамилия, имя и отчество",
+
 		"teachingDiscipline": [
 			"text[250] - преподаваемая дисциплина"
 		],
-		"academStat2": "text[100] - учёное звание",
-		"specExperience": "int - стаж работы по специальности",
+		"teachingProfile": [
+			"int - преподаваемые направленности (профили) подготовки (из реестра https://api.guap.ru/sveden2021/test/get-directionProfiles [https://api.guap.ru/sveden2021/view/directionProfiles])"
+		],
+
 		"profDevelopment": [
 			"text[250] - повышение квалификации и (или) профессиональная переподготовка"
 		],
 		"genExperience": "int - общий стаж работы",
-		"academStat": "int - * сведения об учёном звании (из реестра https://api.guap.ru/data/RegsAcademicRanks)",
-		"teachingProfile": [
-			"int - преподаваемые направленности (профили) подготовки (из реестра https://api.guap.ru/sveden2021/test/get-directionProfiles [https://api.guap.ru/sveden2021/view/directionProfiles])"
-		]
+		"specExperience": "int - стаж работы по специальности"
 	}
 ]
