@@ -9,7 +9,7 @@
 Исходная выгрузки (АИС):  
 http://ais.local/export/base.json
 
-Исправленный вариант (ЦИТ):  
+Адаптированный вариант (ЦИТ):  
 http://download.guap.ru/sveden/_edu/eduplans-bases.json
 
 
@@ -17,36 +17,25 @@ http://download.guap.ru/sveden/_edu/eduplans-bases.json
 
 ОБНОВЛЕНИЕ 2021-003-01
 
-Новое описание формата JSON:  
+Описание формата JSON:  
 [eduplans_new.json](eduplans_new.json)
 
-Новая исходная выгрузки (АИС):
+Исходная выгрузки (АИС):  
 http://ais.local/export/eduplansnew.json
 
-Новый исправленный вариант (ЦИТ):  
+Адаптированный вариант (ЦИТ):  
 http://download.guap.ru/sveden/_edu/eduplansnew-ais.json
-
----
-
-Старое описание формата JSON:  
-[eduplans_old.json](eduplans_old.json)
-
-Старая исходная выгрузки (АИС):
-http://ais.local/export/eduplans.json
-
-Старый исправленный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_edu/eduplans-ais.json
 
 
 ## Информация о персональном составе педагогических работников (employees)
 
-ОБНОВЛЕНИЕ 2021-002-18
+ОБНОВЛЕНИЕ 2021-003-17
 
 Описание формата JSON:  
 [employees.json](employees.json)
 
 Исходная выгрузки (АИС):  
-https://ais.local/index.php?action=exportListsForLMS&mode=4site
+http://ais.local/export/employees.json
 
-Исправленный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_pps/pps.json
+Адаптированный вариант (ЦИТ):  
+http://download.guap.ru/sveden/_edu/employees.json
