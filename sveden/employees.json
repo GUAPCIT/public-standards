@@ -1,14 +1,14 @@
 [
 	{
 		"proId": "int - ключ педагогического работника в личном кабинете",
-		"fio": "text[100] - фамилия, имя и отчество",
+		"fio": "text[250] - фамилия, имя и отчество",
 
 		"degree": "int - * сведения об учёной степени (из реестра https://api.guap.ru/data/RegsAcademicDegrees)",
-		"degree2": "text[100] - учёная степень",
+		"degree2": "text[250] - учёная степень",
 		"academStat": "int - * сведения об учёном звании (из реестра https://api.guap.ru/data/RegsAcademicRanks)",
-		"academStat2": "text[100] - учёное звание",
+		"academStat2": "text[250] - учёное звание",
 
-		"teachingLevel": "text[100] - уровень образования",
+		"teachingLevel": "text[250] - уровень образования",
 		"edictaion": [
 			{
 				"qual": "text[250] - квалификация",
