@@ -29,7 +29,11 @@
 			"text[250] - преподаваемая дисциплина"
 		],
 		"teachingProfile": [
-			"int - преподаваемые направленности (профили) подготовки (из реестра https://api.guap.ru/sveden2021/test/get-directionProfiles [https://api.guap.ru/sveden2021/view/directionProfiles])"
+			"int - преподаваемые направленности (профили) подготовки (из реестра http://ais.local/export/eduplansnew.json])"
+		],
+
+		"teachingDisciplineIDs": [
+			"int - преподаваемые дисциплины (из реестра http://ais.local/export/eduplansnew.json])"
 		],
 
 		"profDevelopment": [
