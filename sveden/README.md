@@ -3,7 +3,7 @@
 
 ## Образование (base)
 
-ОБНОВЛЕНИЕ 2021-003-19
+ОБНОВЛЕНИЕ 2021-004-06
 
 Описание формата JSON:  
 [base.json](base.json)
@@ -12,21 +12,21 @@
 http://ais.local/export/base.json
 
 Адаптированный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_edu/eduplans-bases.json
+http://download.guap.ru/sveden/_edu/bases.json
 
 
 ## Образование (eduplans)
 
-ОБНОВЛЕНИЕ 2021-003-01
+ОБНОВЛЕНИЕ 2021-004-06
 
 Описание формата JSON:  
-[eduplans_new.json](eduplans_new.json)
+[eduplans.json](eduplans.json)
 
 Исходная выгрузки (АИС):  
-http://ais.local/export/eduplansnew.json
+http://ais.local/export/eduplans.json
 
 Адаптированный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_edu/eduplansnew-ais.json
+http://download.guap.ru/sveden/_edu/eduplans.json
 
 
 ## Информация о персональном составе педагогических работников (employees)
