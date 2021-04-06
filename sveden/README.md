@@ -12,7 +12,7 @@
 http://ais.local/export/base.json
 
 Адаптированный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_edu/bases.json
+http://download.guap.ru/sveden/_edu/base.json
 
 
 ## Образование (eduplans)
