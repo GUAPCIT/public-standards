@@ -1,0 +1,101 @@
+{
+	"Items": [
+		{
+			"level": "mag",
+			"target": "budg",
+			"form": "o",
+			"events": [
+				{ "event": "2022-06-20=docstart" },
+				{ "event": "2022-08-03=docstop" },
+				{ "event": "2022-08-04=teststop" },
+				{ "event": "2022-08-08=rate" },
+				{ "event": "2022-08-12=cons" },
+				{ "event": "2022-08-13=pric" }
+			]
+		},
+		{
+			"level": "mag",
+			"target": "budg",
+			"form": "z",
+			"events": [
+				{ "event": "2022-06-20=docstart" },
+				{ "event": "2022-08-10=docstop" },
+				{ "event": "2022-08-15=rate" },
+				{ "event": "2022-08-19=cons" },
+				{ "event": "2022-08-24=pric" }
+			]
+		}
+	],
+	"RegLevels": [
+		{
+			"name": "spo",
+			"title": "ФСПО"
+		},
+		{
+			"name": "bach",
+			"title": "Бакалавриат/Специалитет"
+		},
+		{
+			"name": "mag",
+			"title": "Магистратура"
+		},
+		{
+			"name": "aspira",
+			"title": "Аспирантура"
+		}
+	],
+	"RegTargets": [
+		{
+			"name": "budg",
+			"title": "Бюджетное"
+		},
+		{
+			"name": "targ",
+			"title": "Целевое"
+		},
+		{
+			"name": "cont",
+			"title": "Контрактное"
+		}
+	],
+	"RegForms": [
+		{
+			"name": "o",
+			"title": "Очная"
+		},
+		{
+			"name": "oz",
+			"title": "Очно-заочная"
+		},
+		{
+			"name": "z",
+			"title": "Заочная"
+		}
+	],
+	"RegEvents": [
+		{
+			"name": "docstart",
+			"title": "Начинается прием документов"
+		},
+		{
+			"name": "docstop",
+			"title": "Завершается прием документов"
+		},
+		{
+			"name": "teststop",
+			"title": "Завершаются вступительные испытания"
+		},
+		{
+			"name": "rate",
+			"title": "Рейтинговые списки поступающих"
+		},
+		{
+			"name": "cons",
+			"title": "Согласие на зачисление"
+		},
+		{
+			"name": "pric",
+			"title": "Приказ о зачислении"
+		}
+	]
+}
