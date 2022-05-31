@@ -15,13 +15,13 @@
 ОБНОВЛЕНИЕ 2021-004-06
 
 Описание формата JSON:  
-[base.json](base.json)
+[base.jsonc](base.jsonc)
 
 Исходная выгрузки (АИС):  
-http://ais.local/export/base.json
+http://ais.local/export/base.jsonc
 
 Адаптированный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_edu/base.json
+http://download.guap.ru/sveden/_edu/base.jsonc
 
 
 ## Образование (eduplans)
@@ -29,13 +29,13 @@ http://download.guap.ru/sveden/_edu/base.json
 ОБНОВЛЕНИЕ 2021-004-06
 
 Описание формата JSON:  
-[eduplans.json](eduplans.json)
+[eduplans.jsonc](eduplans.jsonc)
 
 Исходная выгрузки (АИС):  
-http://ais.local/export/eduplans.json
+http://ais.local/export/eduplans.jsonc
 
 Адаптированный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_edu/eduplans.json
+http://download.guap.ru/sveden/_edu/eduplans.jsonc
 
 
 ## Информация о персональном составе педагогических работников (employees)
@@ -43,10 +43,10 @@ http://download.guap.ru/sveden/_edu/eduplans.json
 ОБНОВЛЕНИЕ 2021-003-17
 
 Описание формата JSON:  
-[employees.json](employees.json)
+[employees.jsonc](employees.jsonc)
 
 Исходная выгрузки (АИС):  
-http://ais.local/export/employees.json
+http://ais.local/export/employees.jsonc
 
 Адаптированный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_edu/employees.json
+http://download.guap.ru/sveden/_edu/employees.jsonc
