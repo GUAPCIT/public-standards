@@ -1,78 +1,78 @@
 {
-	"level": "mag",
-	"finsources": [
-		{
-			"finsource": "budg",
-			"forms": [
-				{
-					"form": "o",
-					"events": [
-						{ "event": "2022-06-20=docstart" },
-						{ "event": "2022-08-03=docstop" },
-						{ "event": "2022-08-04=teststop" },
-						{ "event": "2022-08-08=rate" },
-						{ "event": "2022-08-12=cons" },
-						{ "event": "2022-08-13=pric" }
-					]
-				},
-				{
-					"form": "z",
-					"events": [
-						{ "event": "2022-06-20=docstart" },
-						{ "event": "2022-08-10=docstop" },
+  "level": "mag",
+  "finsources": [
+    {
+      "key": "budg",
+      "forms": [
+        {
+          "key": "o",
+          "events": [
+            { "event": "2022-06-20=docstart" },
+            { "event": "2022-08-03=docstop" },
+            { "event": "2022-08-04=teststop" },
+            { "event": "2022-08-08=rate" },
+            { "event": "2022-08-12=cons" },
+            { "event": "2022-08-13=pric" }
+          ]
+        },
+        {
+          "key": "z",
+          "events": [
+            { "event": "2022-06-20=docstart" },
+            { "event": "2022-08-10=docstop" },
             { "event": "2022-08-12=teststop" },
-						{ "event": "2022-08-15=rate" },
-						{ "event": "2022-08-19=cons" },
-						{ "event": "2022-08-24=pric" }
-					]
-				}
-			]
+            { "event": "2022-08-15=rate" },
+            { "event": "2022-08-19=cons" },
+            { "event": "2022-08-24=pric" }
+          ]
+        }
+      ]
     },
     {
-			"finsource": "cont",
-			"forms": [
-				{
-					"form": "o",
-					"events": [
-						{ "event": "2022-06-20=docstart" },
+      "key": "cont",
+      "forms": [
+        {
+          "key": "o",
+          "events": [
+            { "event": "2022-06-20=docstart" },
             { "event": "2022-08-12=docstop" },
             { "event": "2022-08-14=teststop" },
             { "event": "2022-08-17=rate" },
             { "event": "2022-08-19=cons" },
-						{ "event": "2022-08-24=pric" }
-					]
-				},
-				{
-					"form": "z",
-					"events": [
-						{ "event": "2022-06-20=docstart" },
+            { "event": "2022-08-24=pric" }
+          ]
+        },
+        {
+          "key": "z",
+          "events": [
+            { "event": "2022-06-20=docstart" },
             { "event": "2022-08-12=docstop" },
             { "event": "2022-08-14=teststop" },
             { "event": "2022-08-17=rate" },
             { "event": "2022-08-19=cons" },
-						{ "event": "2022-08-24=pric" }
-					]
-				}
-			]
-		},
+            { "event": "2022-08-24=pric" }
+          ]
+        }
+      ]
+    },
     {
-			"finsource": "targ",
-			"forms": [
-				{
-					"form": "o",
-					"events": [
-						{ "event": "2022-08-09=cons" },
-						{ "event": "2022-08-10=pric" }
-					]
-				},
-				{
-					"form": "z",
-					"events": [
-						{ "event": "2022-08-16=cons" },
-						{ "event": "2022-08-17=pric" }
-					]
-				}
-			]
-		}
-	]
+      "key": "targ",
+      "forms": [
+        {
+          "key": "o",
+          "events": [
+            { "event": "2022-08-09=cons" },
+            { "event": "2022-08-10=pric" }
+          ]
+        },
+        {
+          "key": "z",
+          "events": [
+            { "event": "2022-08-16=cons" },
+            { "event": "2022-08-17=pric" }
+          ]
+        }
+      ]
+    }
+  ]
 }
