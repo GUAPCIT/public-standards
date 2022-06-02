@@ -6,9 +6,10 @@
 
 - [Формат данные конкурса](competition.jsonc)
 
-- [Формат данных календаря](calendar.jsonc)
-- [Реестры календаря](calendar-regs.json)
-- [Пример данных календаря](calendar-mag.json)
+- Календарь приемной кампании
+   - [Формат данных календаря](calendar.jsonc)
+   - [Реестры календаря](calendar-regs.json)
+   - [Пример данных](calendar-mag.json)
 
 Исходники:
 

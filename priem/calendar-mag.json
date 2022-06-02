@@ -1,6 +1,6 @@
 {
 	"level": "mag",
-	"targets": [
+	"finsources": [
 		{
 			"finsource": "budg",
 			"forms": [
