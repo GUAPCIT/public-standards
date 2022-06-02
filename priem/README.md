@@ -3,8 +3,12 @@
 ## Формат данных
 
 - [Инфографика стартовой страницы](info.jsonc)
-- [Данные конкурса](competition.jsonc)
-- [Данные календаря](calendar.jsonc)
+
+- [Формат данные конкурса](competition.jsonc)
+
+- [Формат данных календаря](calendar.jsonc)
+- [Реестры календаря](calendar-regs.json)
+- [Пример данных календаря](calendar-mag.json)
 
 Исходники:
 

@@ -1,0 +1,74 @@
+{
+	"regLevels": [
+		{
+			"name": "spo",
+			"title": "ФСПО"
+		},
+		{
+			"name": "bach",
+			"title": "Бакалавриат/Специалитет"
+		},
+		{
+			"name": "mag",
+			"title": "Магистратура"
+		},
+		{
+			"name": "aspira",
+			"title": "Аспирантура"
+		}
+	],
+	"regFinsources": [
+		{
+			"name": "budg",
+			"title": "Бюджетное"
+		},
+		{
+			"name": "targ",
+			"title": "Целевое"
+		},
+		{
+			"name": "cont",
+			"title": "Контрактное"
+		}
+	],
+	"regForms": [
+		{
+			"name": "o",
+			"title": "Очная"
+		},
+		{
+			"name": "oz",
+			"title": "Очно-заочная"
+		},
+		{
+			"name": "z",
+			"title": "Заочная"
+		}
+	],
+	"regEvents": [
+		{
+			"name": "docstart",
+			"title": "Начинается прием документов"
+		},
+		{
+			"name": "docstop",
+			"title": "Завершается прием документов"
+		},
+		{
+			"name": "teststop",
+			"title": "Завершаются вступительные испытания"
+		},
+		{
+			"name": "rate",
+			"title": "Рейтинговые списки поступающих"
+		},
+		{
+			"name": "cons",
+			"title": "Согласие на зачисление"
+		},
+		{
+			"name": "pric",
+			"title": "Приказ о зачислении"
+		}
+	]
+}
