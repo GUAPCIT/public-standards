@@ -7,23 +7,23 @@
         {
           "key": "o",
           "events": [
-            { "event": "2022-06-20=docstart" },
-            { "event": "2022-08-03=docstop" },
-            { "event": "2022-08-04=teststop" },
-            { "event": "2022-08-08=rate" },
-            { "event": "2022-08-12=cons" },
-            { "event": "2022-08-13=pric" }
+            { "event": "2022-06-20T00:00:00=docstart" },
+            { "event": "2022-08-03T00:00:00=docstop" },
+            { "event": "2022-08-04T00:00:00=teststop" },
+            { "event": "2022-08-08T00:00:00=rate" },
+            { "event": "2022-08-12T00:00:00=cons" },
+            { "event": "2022-08-13T00:00:00=pric" }
           ]
         },
         {
           "key": "z",
           "events": [
-            { "event": "2022-06-20=docstart" },
-            { "event": "2022-08-10=docstop" },
-            { "event": "2022-08-12=teststop" },
-            { "event": "2022-08-15=rate" },
-            { "event": "2022-08-19=cons" },
-            { "event": "2022-08-24=pric" }
+            { "event": "2022-06-20T00:00:00=docstart" },
+            { "event": "2022-08-10T00:00:00=docstop" },
+            { "event": "2022-08-12T00:00:00=teststop" },
+            { "event": "2022-08-15T00:00:00=rate" },
+            { "event": "2022-08-19T00:00:00=cons" },
+            { "event": "2022-08-24T00:00:00=pric" }
           ]
         }
       ]
@@ -34,23 +34,23 @@
         {
           "key": "o",
           "events": [
-            { "event": "2022-06-20=docstart" },
-            { "event": "2022-08-12=docstop" },
-            { "event": "2022-08-14=teststop" },
-            { "event": "2022-08-17=rate" },
-            { "event": "2022-08-19=cons" },
-            { "event": "2022-08-24=pric" }
+            { "event": "2022-06-20T00:00:00=docstart" },
+            { "event": "2022-08-12T00:00:00=docstop" },
+            { "event": "2022-08-14T00:00:00=teststop" },
+            { "event": "2022-08-17T00:00:00=rate" },
+            { "event": "2022-08-19T00:00:00=cons" },
+            { "event": "2022-08-24T00:00:00=pric" }
           ]
         },
         {
           "key": "z",
           "events": [
-            { "event": "2022-06-20=docstart" },
-            { "event": "2022-08-12=docstop" },
-            { "event": "2022-08-14=teststop" },
-            { "event": "2022-08-17=rate" },
-            { "event": "2022-08-19=cons" },
-            { "event": "2022-08-24=pric" }
+            { "event": "2022-06-20T00:00:00=docstart" },
+            { "event": "2022-08-12T00:00:00=docstop" },
+            { "event": "2022-08-14T00:00:00=teststop" },
+            { "event": "2022-08-17T00:00:00=rate" },
+            { "event": "2022-08-19T00:00:00=cons" },
+            { "event": "2022-08-24T00:00:00=pric" }
           ]
         }
       ]
@@ -61,15 +61,15 @@
         {
           "key": "o",
           "events": [
-            { "event": "2022-08-09=cons" },
-            { "event": "2022-08-10=pric" }
+            { "event": "2022-08-09T00:00:00=cons" },
+            { "event": "2022-08-10T00:00:00=pric" }
           ]
         },
         {
           "key": "z",
           "events": [
-            { "event": "2022-08-16=cons" },
-            { "event": "2022-08-17=pric" }
+            { "event": "2022-08-16T00:00:00=cons" },
+            { "event": "2022-08-17T00:00:00=pric" }
           ]
         }
       ]
