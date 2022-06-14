@@ -17,9 +17,12 @@
 						// события календаря
 						//
 						{
-							"event": "2022-01-31T00:00:00=docstart" // данные события в формате `yyyy-MM-ddTHH:mm:ss=ключ_события`
-							// подробнее про формат дата/время: https://docs.microsoft.com/ru-ru/dotnet/standard/base-types/custom-date-and-time-format-strings
-							// если время 00:00:00, то оно не отображается
+							"event": "[<]2022-01-31T00:00:00=docstart" // данные события в формате `[<]yyyy-MM-ddTHH:mm:ss=ключ_события`
+							// Если установлено время и вначале строки указан символ '<', то считается,
+							//    что событие должно произойти до указанного времени, иначе, после.							
+							// Если время 00:00:00, то оно не отображается.
+							// Подробнее про формат дата/время:
+							//    https://docs.microsoft.com/ru-ru/dotnet/standard/base-types/custom-date-and-time-format-strings
 						}
 					]
 				}
