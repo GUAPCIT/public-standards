@@ -17,11 +17,8 @@
 Описание формата JSON:  
 [base.jsonc](base.jsonc)
 
-Исходная выгрузки (АИС):  
-http://ais.local/export/base.jsonc
-
-Адаптированный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_edu/base.jsonc
+Выгрузка (АИС):  
+https://ais.local/soft/export/base.json
 
 
 ## Образование (eduplans)
@@ -31,11 +28,8 @@ http://download.guap.ru/sveden/_edu/base.jsonc
 Описание формата JSON:  
 [eduplans.jsonc](eduplans.jsonc)
 
-Исходная выгрузки (АИС):  
-http://ais.local/export/eduplans.jsonc
-
-Адаптированный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_edu/eduplans.jsonc
+Выгрузка (АИС):  
+https://ais.local/soft/export/eduplans.json
 
 
 ## Информация о персональном составе педагогических работников (employees)
@@ -45,8 +39,6 @@ http://download.guap.ru/sveden/_edu/eduplans.jsonc
 Описание формата JSON:  
 [employees.jsonc](employees.jsonc)
 
-Исходная выгрузки (АИС):  
-http://ais.local/export/employees.jsonc
+Выгрузка (АИС):  
+https://ais.local/soft/export/employees.json
 
-Адаптированный вариант (ЦИТ):  
-http://download.guap.ru/sveden/_edu/employees.jsonc
