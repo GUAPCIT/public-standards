@@ -4,15 +4,11 @@
 
 - [Инфографика стартовой страницы](info.jsonc)
 
-- [Формат данных конкурса](competition.jsonc)
+- Конкурс (фильтр приемной кампании)
+   - [Новая версия](competition/ver2.jsonc)
+   - [Старая версия](competition/ver1.jsonc)
 
 - Календарь приемной кампании
-   - [Формат данных календаря (версия 2)](calendar2.jsonc)
-   - [Формат данных календаря](calendar.jsonc)
-   - [Реестры календаря](calendar-regs.json)
-   - [Пример данных](calendar-mag.json)
-
-Исходники:
-
-- [Шаблон (данные)](_data.jsonc)
-- [Шаблон (программы)](_programs.jsonc)
+   - [Формат данных календаря](calendar/calendar.jsonc)
+   - [Реестры календаря](calendar/calendar-regs.json)
+   - [Пример данных](calendar/calendar-mag.json)
