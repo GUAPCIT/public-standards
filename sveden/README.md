@@ -18,7 +18,7 @@
 [base.jsonc](base.jsonc)
 
 Выгрузка (АИС):  
-https://ais.local/soft/export/base.json
+https://ais.guap.ru/soft/export/base.json
 
 
 ## Образование (eduplans)
@@ -29,7 +29,7 @@ https://ais.local/soft/export/base.json
 [eduplans.jsonc](eduplans.jsonc)
 
 Выгрузка (АИС):  
-https://ais.local/soft/export/eduplans.json
+https://ais.guap.ru/soft/export/eduplans.json
 
 
 ## Информация о персональном составе педагогических работников (employees)
@@ -40,5 +40,5 @@ https://ais.local/soft/export/eduplans.json
 [employees.jsonc](employees.jsonc)
 
 Выгрузка (АИС):  
-https://ais.local/soft/export/employees.json
+https://ais.guap.ru/soft/export/employees.json
 
