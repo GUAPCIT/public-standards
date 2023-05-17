@@ -1,6 +1,7 @@
 [
 	{
 		"proId": "int - ключ педагогического работника в личном кабинете",
+		"active": "boolean - признак активного педагогического работника (отображается на кафедре)",
 		"imageLink": "text[250] - адрес файла картинки профиля",
 		"fio": "text[250] - фамилия, имя и отчество",
 
@@ -30,11 +31,11 @@
 			"text[250] - преподаваемая дисциплина"
 		],
 		"teachingProfile": [
-			"int - преподаваемые направленности (профили) подготовки (из реестра http://ais.local/export/eduplansnew.json])"
+			"int - преподаваемые направленности (профили) подготовки (из реестра https://ais.guap.ru/soft/export/eduplans.json])"
 		],
 
 		"teachingDisciplineIDs": [
-			"int - преподаваемые дисциплины (из реестра http://ais.local/export/eduplansnew.json])"
+			"int - преподаваемые дисциплины (из реестра https://ais.guap.ru/soft/export/eduplans.json])"
 		],
 
 		"profDevelopment": [
